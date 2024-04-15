@@ -18,7 +18,7 @@ console.log(user);
 
 
 // Виводимо останнє хобі
-console.log(user.hobbies[0]);
+console.log(user.hobbies[1]);
 
 // Виводимо адресу в форматованому вигляді
 console.log(`Name: ${user.name}`);
