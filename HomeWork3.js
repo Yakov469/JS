@@ -21,11 +21,4 @@ console.log(user);
 console.log(user.hobbies[1]);
 
 // Виводимо адресу в форматованому вигляді
-console.log(`Name: ${user.name}`);
 console.log(`Address: ${user.address.street}, ${user.address.city}`);
-console.log(`Name: ${user.hobbies.join()}`);
-
-// Викликаємо функції
-// printFullObject(обєкт)
-// printLastHobby(обєкт)
-// printFormattedAddress(обєкт)
